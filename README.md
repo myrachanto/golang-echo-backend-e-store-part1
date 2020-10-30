@@ -18,7 +18,7 @@ on the repository i have used gorm, which also can be easily substituted with ot
 
 - It has an Authorization system embed into it- with **jwt tokens**
 - It has the crud opreations for
-> -product
+  -product
   -customer
   -category of products
   -major category of products
