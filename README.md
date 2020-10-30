@@ -8,7 +8,7 @@ Any way lets get to what we have here
 ## The archtecture of this application -backend application mind you!
  
  
- ## frontend<===routes<=====contollers <============ services =============> respository ===> batabaseses(sql for this case but can be configured easly to nosql databases)
+ ## frontend<===routes<=====contollers <===== services ====> respository ===> databases
  
 I have used echo famework which can be easilly substituted by any other framework like gin -sinces it only rounds the routes and the controller
 
