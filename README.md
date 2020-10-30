@@ -17,12 +17,11 @@ on the repository i have used gorm, which also can be easily substituted with ot
 ##the scope of golang echo backend e-store-part1
 
 - It has an Authorization system embed into it- with **jwt tokens**
-- It has the crud opreations for
--product
--customer
--category of products
--major category of products
--sub category of products
+- It has the crud opreations product
+- It has the crud opreations customer
+- It has the crud opreations category of products
+- It has the crud opreations major category of products
+- It has the crud opreations sub category of products
 - It Utilizes the gorm(orm) platform to interact with the database-relational database which as i said earlier it is easily subtitutable with other orm like xorm
 - It Utilizes the echo framework to its controllers and routes- easily subsituted 
 -
