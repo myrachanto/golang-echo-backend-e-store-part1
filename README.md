@@ -18,11 +18,11 @@ on the repository i have used gorm, which also can be easily substituted with ot
 
 - It has an Authorization system embed into it- with **jwt tokens**
 - It has the crud opreations for
-  -product
-  -customer
-  -category of products
-  -major category of products
-  -sub category of products
+-product
+-customer
+-category of products
+-major category of products
+-sub category of products
 - It Utilizes the gorm(orm) platform to interact with the database-relational database which as i said earlier it is easily subtitutable with other orm like xorm
 - It Utilizes the echo framework to its controllers and routes- easily subsituted 
 -
